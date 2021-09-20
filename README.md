@@ -1,8 +1,8 @@
 # Spark-Assignment-1 : Linear Regression Techinque
 
 ### Video Source:
-      https://www.youtube.com/watch?v=A1JzRTLJE0Y&t=34s/
-      
+      https://youtu.be/A1JzRTLJE0Y
+            
 ### Data Set Link:
       https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv
 
